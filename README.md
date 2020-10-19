@@ -28,9 +28,10 @@ Project directory
 
 ## Reflaction
 
-This assignment allows me to explore datasets with different kinds of data types and purposes. I  have learned how to transform and map data from one data form to another format. Changing the datatypes was the first thing I worked on since the type of data influences the operation that we can perform. I used the `set_index()` method to set a column on the data frame as an index to structure the columns of different types to aggregate, transform and filter the data, `apply()` method to pass a function and apply it on every single value to segregate data according to the condition required. 
+This assignment allows me to explore datasets with different kinds of data types and purposes. I  have learned to transform and map data from one data form to another format. Changing the datatypes was the first thing I worked on since the type of data influences the operation that we can perform. I used the `set_index()` method to set a column on the data frame as an index to structure the columns of different types to aggregate, transform and filter the data, `apply()` method to pass a function and apply it on every single value to segregate data according to the condition required. Also, I used the lambda function to capitalize strings.
 
-I have learned to perform statistics to columns with numerical data using methods such as mean(), median(), min(), and max(), after categorizing columns using the `groupby()` function to split the data into groups based on some criteria, for example, by age, by gender, and year. Also, I was able to compute specific combinations of aggregating statistics for given columns using the `agg()` method.
+I have learned to perform statistics to columns with numerical data using methods such as mean(), median(), min(), max(), and describe(), after categorizing columns using the `groupby()` function to split the data into groups based on some criteria, for example, by age, by gender, and year. In addition, I was able to compute specific combinations of aggregating statistics for given columns using the .agg() method.
+
 
 
 
@@ -42,12 +43,12 @@ I have learned to perform statistics to columns with numerical data using method
 #### 1. What do I believe I did well on this assignment?
 
 
-I have used different pandas methods and functions to structure, apply, split, filter, and transform data. I grouped the data columns according to the specific criteria and performed mathematical computation on it. 
+I have used different pandas methods and functions to structure, apply, split, filter, and transform data. I used the `groupby()` method to categorize the data according to the specific criteria and performed mathematical aggregations to explore the relationships between data values.
+
 
 ### 2. What was the most challenging part of this assignment?
 
-Understanding the statistical operations and how to perform statistical computations on the categorized columns was a little bit challenging at first. Also, Aggregating multiple columns to get a single value.
-
+Understanding the statistical operations and how to perform statistical computations on the categorized columns was a little bit challenging at first. In addition, Aggregating multiple columns to get a single value.
 
 
 ### 3. What would have made this assignment a better experience?
