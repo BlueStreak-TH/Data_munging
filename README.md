@@ -18,11 +18,11 @@ source bin/activate
 Project directory 
 ```
 
-    data
-    docs
-    notebooks
-    LICENSE
-    requirments.txt
+    - data
+    - docs
+    - notebooks
+    - LICENSE
+    - requirments.txt
 
 ```
 
